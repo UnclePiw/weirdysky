@@ -1,6 +1,6 @@
 ข้อตกลงในการใช้ซอฟต์แวร์
 ซอฟต์แวร์นี้เป็นผลงานที่พัฒนาขึ้นโดยนางสาวธีร์จุฑา สิทธิสุขเอนก นางสาวสุนันทา เบญจศิริวัฒนา นางสาววริศรา อารยะวิไลพงศ์ จากโรงเรียนสตรีวิทยา 
-ภายใต้การดูแลขอนางสาวสุธาทิพย์ นามเตี๊ยะ ภายใต้โครงการ "ท้องฟ้าประหลาดลึกลับ" โปรแกรมเพื่อความบันเทิง (นักเรียน)
+ภายใต้การดูแลของนางสาวสุธาทิพย์ นามเตี๊ยะ ภายใต้โครงการ "ท้องฟ้าประหลาดลึกลับ" โปรแกรมเพื่อความบันเทิง (นักเรียน)
 ซึ่งสนับสนุนโดย สานักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ โดยมี
 วัตถุประสงค์เพื่อส่งเสริมให้นักเรียนและนักศึกษาได้เรียนรู้และฝึกทักษะในการพัฒนา
 ซอฟต์แวร์ ลิขสิทธิ์ของซอฟต์แวร์นี้จึงเป็นของผู้พัฒนา ซึ่งผู้พัฒนาได้อนุญาตให้สานักงาน
@@ -14,7 +14,7 @@
 License Agreement
 This software is a work developed by Miss Teejutha sithisukanake, Miss Sunanta Benjasiriwattana 
 and Miss Varissara Arayavilaipong from Satriwithaya School 
-under the provision of Mrs.Suthathip Namtia under "weirdy sky" entertainment software (Student), 
+under the provision of Miss Suthathip Namtia under "weirdy sky" entertainment software (Student), 
 which has been supported by the National Science and Technology
 Development Agency (NSTDA), in order to encourage pupils and students to
 learn and practice their skills in developing software. Therefore, the intellectual
